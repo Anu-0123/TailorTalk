@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+langgraph
+openai
+google-api-python-client
+google-auth
+google-auth-oauthlib
+requests
